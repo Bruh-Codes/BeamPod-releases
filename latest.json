@@ -1,15 +1,15 @@
 {
-  "version": "0.3.6",
-  "notes": "Fixes transcription not starting on Windows after the speech model loads.",
-  "pub_date": "2026-10-31T18:53:06Z",
+  "version": "0.3.7",
+  "notes": "Startup screen with one progress bar and percentage. Update download shows MB and percentage. Input level hint now in the top bar. Fixes the startup screen staying on 'Loading'.",
+  "pub_date": "2026-10-31T19:21:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV04vV1h3a0VBd2ZYTWNDSURmVFVpZm5uMCtOQ1lwaHRaUUFwN2kyZDZ5RDVjWkhMempEZXg1eWwyZDRxRTZ1QzQ0bHJDUHJ6YlhKN0MxbW1CemljVTZZQzFrcDlCL3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDcyNzc0CWZpbGU6QmVhbVBvZF8wLjMuNl94NjQtc2V0dXAuZXhlCm82UXNYc0xSVUdlemk1RUF0bGdEa0Y0RWFvbHl5L2JEL2x2QVFKYjY5NW5ZUzJpY1F4aS8zNVFVUmJvMVRjTmRJeHFINCs4cjRXWXE2QStuMFdnRERRPT0K",
-      "url": "https://raw.githubusercontent.com/Bruh-Codes/BeamPod-releases/main/releases/0.3.6/BeamPod_0.3.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV04vV1h3a0VBd1IvVWRyMmxMYlJCd0FoRHlmTDFRTWk3V09SSWo1TjE3YXlXMVlDQVFIZTVXTzRpNUs4UWJzWWFjd3MxeTFFbWZ3SFVna3JSeC85aUpFZnlsOUc3endjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDc0NDg2CWZpbGU6QmVhbVBvZF8wLjMuN194NjQtc2V0dXAuZXhlCldzYXgvWXB5M1BCNyt3bi9XaDdsM3I2WXhvSklaOGQ0RkZTVVU5S1BnMmwrUndHeVluTzZ2MnNiUlV4TnAvR0FjNVFpeWpSYnA0NUFua2I4eGNHOEJBPT0K",
+      "url": "https://raw.githubusercontent.com/Bruh-Codes/BeamPod-releases/main/releases/0.3.7/BeamPod_0.3.7_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV04vV1h3a0VBd2ZYTWNDSURmVFVpZm5uMCtOQ1lwaHRaUUFwN2kyZDZ5RDVjWkhMempEZXg1eWwyZDRxRTZ1QzQ0bHJDUHJ6YlhKN0MxbW1CemljVTZZQzFrcDlCL3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDcyNzc0CWZpbGU6QmVhbVBvZF8wLjMuNl94NjQtc2V0dXAuZXhlCm82UXNYc0xSVUdlemk1RUF0bGdEa0Y0RWFvbHl5L2JEL2x2QVFKYjY5NW5ZUzJpY1F4aS8zNVFVUmJvMVRjTmRJeHFINCs4cjRXWXE2QStuMFdnRERRPT0K",
-      "url": "https://raw.githubusercontent.com/Bruh-Codes/BeamPod-releases/main/releases/0.3.6/BeamPod_0.3.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV04vV1h3a0VBd1IvVWRyMmxMYlJCd0FoRHlmTDFRTWk3V09SSWo1TjE3YXlXMVlDQVFIZTVXTzRpNUs4UWJzWWFjd3MxeTFFbWZ3SFVna3JSeC85aUpFZnlsOUc3endjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDc0NDg2CWZpbGU6QmVhbVBvZF8wLjMuN194NjQtc2V0dXAuZXhlCldzYXgvWXB5M1BCNyt3bi9XaDdsM3I2WXhvSklaOGQ0RkZTVVU5S1BnMmwrUndHeVluTzZ2MnNiUlV4TnAvR0FjNVFpeWpSYnA0NUFua2I4eGNHOEJBPT0K",
+      "url": "https://raw.githubusercontent.com/Bruh-Codes/BeamPod-releases/main/releases/0.3.7/BeamPod_0.3.7_x64-setup.exe"
     }
   }
 }
