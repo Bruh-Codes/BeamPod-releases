@@ -1,15 +1,15 @@
 {
-  "version": "0.3.3",
-  "notes": "In-app updates, softer light theme, offline speech sets itself up on first launch.",
-  "pub_date": "2026-10-31T16:42:54Z",
+  "version": "0.3.4",
+  "notes": "Startup screen gets speech ready before you start. Calmer input-level hint. More reliable first-time model download.",
+  "pub_date": "2026-10-31T18:12:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV04vV1h3a0VBd1RKOFNUaG94L3VYZ3Z1NmFobDFoOE1YNllGb1NYSzNUOVNHL0c5S1NqZGRwbWUrWDRvUTJCSWRqb2E5RldxVy9ZazlQU3pZNHpWVHE2ZGs2TmFRQWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDY0OTQ4CWZpbGU6QmVhbVBvZF8wLjMuM194NjQtc2V0dXAuZXhlCnJJdnEyeXVXWmVqUmVkbTZ3MEYyY1d4ZHhLUkhtTUNTZDhiWmhJcmxjRmc3Mmx5d0ZtV25TeXMwYjBPL0wyNi9qcmRhaUgxelNKc3k1b1VJdnZJbkNRPT0K",
-      "url": "https://raw.githubusercontent.com/Bruh-Codes/BeamPod-releases/main/releases/0.3.3/BeamPod_0.3.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV04vV1h3a0VBd1NwWUlscXlpVHF5dmgyMGFXaHlGbTJQM0ZPTjUyQWhoVm9vb3Rlem5UWDJ1U05NdTFEcm5tbzZHUC9MdGZ2V1RGMmtkY3Y4N3JoVWhhcWZZQm1oZ3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDcwMzQ0CWZpbGU6QmVhbVBvZF8wLjMuNF94NjQtc2V0dXAuZXhlCnVRL29McjZLQzU2Zjcra1ZsTU93cXVRTkVTd250c1hWZThJbHM2b2pKdnZBTjZXV3k3bS9YU29lejZuZHJrUEZPWUY3K3BiaXZWVjMzMlFTUEpMQkNnPT0K",
+      "url": "https://raw.githubusercontent.com/Bruh-Codes/BeamPod-releases/main/releases/0.3.4/BeamPod_0.3.4_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV04vV1h3a0VBd1RKOFNUaG94L3VYZ3Z1NmFobDFoOE1YNllGb1NYSzNUOVNHL0c5S1NqZGRwbWUrWDRvUTJCSWRqb2E5RldxVy9ZazlQU3pZNHpWVHE2ZGs2TmFRQWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDY0OTQ4CWZpbGU6QmVhbVBvZF8wLjMuM194NjQtc2V0dXAuZXhlCnJJdnEyeXVXWmVqUmVkbTZ3MEYyY1d4ZHhLUkhtTUNTZDhiWmhJcmxjRmc3Mmx5d0ZtV25TeXMwYjBPL0wyNi9qcmRhaUgxelNKc3k1b1VJdnZJbkNRPT0K",
-      "url": "https://raw.githubusercontent.com/Bruh-Codes/BeamPod-releases/main/releases/0.3.3/BeamPod_0.3.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV04vV1h3a0VBd1NwWUlscXlpVHF5dmgyMGFXaHlGbTJQM0ZPTjUyQWhoVm9vb3Rlem5UWDJ1U05NdTFEcm5tbzZHUC9MdGZ2V1RGMmtkY3Y4N3JoVWhhcWZZQm1oZ3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDcwMzQ0CWZpbGU6QmVhbVBvZF8wLjMuNF94NjQtc2V0dXAuZXhlCnVRL29McjZLQzU2Zjcra1ZsTU93cXVRTkVTd250c1hWZThJbHM2b2pKdnZBTjZXV3k3bS9YU29lejZuZHJrUEZPWUY3K3BiaXZWVjMzMlFTUEpMQkNnPT0K",
+      "url": "https://raw.githubusercontent.com/Bruh-Codes/BeamPod-releases/main/releases/0.3.4/BeamPod_0.3.4_x64-setup.exe"
     }
   }
 }
