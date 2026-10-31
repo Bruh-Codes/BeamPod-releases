@@ -1,14 +1,14 @@
 # BeamPod releases
 
-Installers for BeamPod live under [Releases](https://github.com/Bruh-Codes/BeamPod-releases/releases/latest).
+Installers for BeamPod live in the [`releases/`](releases) folder, one folder per version.
 Download `BeamPod_<version>_x64-setup.exe` and run it. Installed copies update themselves.
 
 ## How installed copies are controlled
 
 BeamPod reads two things from this repository:
 
-1. **`latest.json` on the latest release** tells every copy that a new version exists.
-   Publishing a new release is all it takes to drop an update.
+1. **`latest.json` in this branch** tells every copy that a new version exists and where to
+   download it. Updating this file (with a signed installer in `releases/`) drops an update.
 2. **`config.json` in this branch** is read at every launch. Edit it on GitHub to change behaviour
    for every installed copy, no new build needed:
 
